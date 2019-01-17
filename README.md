@@ -1,4 +1,4 @@
-Project done by  Quentin PUCHERCOS (@quentin) & Guillaume CHRISTE (@guillaume)
+Project done by  Lauren OLIVIER (@lauren) & Guillaume CHRISTE (@guillaume)
 
 This repository contains
 	<ul>
