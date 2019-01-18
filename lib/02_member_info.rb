@@ -40,7 +40,7 @@ end
 #.............................................................................
 
 def perform
-  puts get_member_info
+  puts get_member_info.inspect
 end
 
 perform
